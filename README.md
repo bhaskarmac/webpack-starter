@@ -26,3 +26,8 @@ To watch run
 ```sh
 $ webpack -w
 ```
+
+### Live
+dist folder hosted on gh-pages 
+[Go!](https://bhaskarmac.github.io/webpack-starter/)
+
