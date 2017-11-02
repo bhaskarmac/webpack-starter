@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bhaskarmac/webpack-starter/issues"
   },
-  "homepage": "https://github.com/bhaskarmac/webpack-starter#readme"
+  "homepage": "https://github.com/bhaskarmac/webpack-starter#readme",
+  "devDependencies": {
+    "webpack": "3.8.1"
+  }
 }
