@@ -22,3 +22,7 @@ To compile all js to dist/bundle.js
 ```sh
 $ webpack
 ```
+To watch run
+```sh
+$ webpack -w
+```
